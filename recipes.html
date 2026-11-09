@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recipe Collection — Kusina Consult</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-bar">
+    <span class="brand"><span class="mark">🍲</span> Kusina Consult</span>
+    <button class="sidebarOpen">☰</button>
+    <ul class="nav-links">
+      <button class="sidebarClose">✕</button>
+      <li><a href="index.html">About</a></li>
+      <li><a href="recipes.html" class="active">Recipes</a></li>
+      <li><a href="tips.html">Tips & Nutrition</a></li>
+      <li><a href="services.html" class="cta">Menu Planning</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="page-header wrap">
+  <span class="eyebrow">Filipino Recipe Collection</span>
+  <h2>Browse by category</h2>
+  <p>Main dishes are split by protein, plus sides, appetizers, soups, desserts, and beverages. Tap any card for the full ingredient list, steps, and a nutritionist note. You can also search by dish name or by an ingredient.</p>
+</div>
+
+<section style="padding-top:0;">
+  <div class="wrap">
+    <div class="recipe-toolbar">
+      <div class="tab-group" id="tabGroup"></div>
+      <input type="text" id="searchBox" class="search-box" placeholder="Search a dish or keyword...">
+    </div>
+    <div class="results-count" id="resultsCount"></div>
+    <div class="recipe-grid" id="recipeGrid"></div>
+    <div class="more-wrap"><button id="moreBtn" class="btn btn-outline" hidden>Show more</button></div>
+
+    <div class="references">
+      <h3>References</h3>
+      <p>Merano, V. (n.d.). Pork recipes. Panlasang Pinoy. <a href="https://panlasangpinoy.com/categories/recipes/pork-recipes/">panlasangpinoy.com/categories/recipes/pork-recipes</a></p>
+      <p>Casa Baluarte Filipino Recipes. (n.d.). Filipino pork recipes [Pinterest board]. <a href="https://ph.pinterest.com/CasaBaluarte/filipino-pork-recipes/">ph.pinterest.com/CasaBaluarte/filipino-pork-recipes</a></p>
+    </div>
+  </div>
+</section>
+
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modalBody" role="dialog" aria-modal="true" aria-labelledby="modalTitle"></div>
+</div>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span class="brand"><span class="mark">🍲</span> Kusina Consult</span>
+    <p>A student meal management portfolio — Filipino recipes, practical food guidance, and menu planning services.</p>
+  </div>
+</footer>
+
+<script src="assets/recipes-data.js"></script>
+<script src="assets/recipes-app.js"></script>
+<script src="assets/script.js"></script>
+</body>
+</html>

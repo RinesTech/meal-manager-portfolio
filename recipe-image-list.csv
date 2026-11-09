@@ -1,0 +1,501 @@
+id,category,title,filename
+r001,main-pork,"Pork Menudo with Bell Pepper",r001.jpg
+r002,main-pork,"Spicy Pork Ribs Adobo",r002.jpg
+r003,main-pork,"Honey Garlic Pork Chops",r003.jpg
+r004,main-pork,"Pata Humba (Braised Pork Hocks)",r004.jpg
+r005,main-pork,"Fried Pork Belly Liempo (Lechon Kawali)",r005.jpg
+r006,main-pork,"Pork Estofado",r006.jpg
+r007,main-pork,"Pork Hock and Mung Beans with Vermicelli (Ginisang Monggo with Pata at Sotanghon)",r007.jpg
+r008,main-pork,"Pork Ribs Caldereta",r008.jpg
+r009,main-pork,"Kinamatisang Baboy",r009.jpg
+r010,main-pork,"Batchoy Tagalog",r010.jpg
+r011,main-pork,"Bicol Express",r011.jpg
+r012,main-pork,"Pork BBQ Skewers",r012.jpg
+r013,main-pork,"Sisig",r013.jpg
+r014,main-pork,"Pork Tocino",r014.jpg
+r015,main-pork,"Pork Pochero",r015.jpg
+r016,main-pork,"Binagoongang Baboy",r016.jpg
+r017,main-pork,"Pork Sinantomas",r017.jpg
+r018,main-pork,"Pork Asado",r018.jpg
+r019,main-pork,"Pork Guisanti",r019.jpg
+r020,main-pork,"Pork Chop Stew",r020.jpg
+r021,main-pork,"Pork Giniling",r021.jpg
+r022,main-pork,"Pork and Bamboo Shoots Ginataan",r022.jpg
+r023,main-pork,"Pata Tim (Braised Pork Hock)",r023.jpg
+r024,main-pork,"Pepper Pork Belly",r024.jpg
+r025,main-pork,"Sinarsahang Pork Ribs",r025.jpg
+r026,main-pork,"Pork Longganisa",r026.jpg
+r027,main-pork,"Pork Sinigang sa Miso",r027.jpg
+r028,main-pork,"Pork Adobo sa Gata",r028.jpg
+r029,main-pork,"Pork and Pechay Stir-Fry",r029.jpg
+r030,main-pork,"Crispy Pata Kare-Kare",r030.jpg
+r031,main-pork,"Crispy Pata Dinakdakan",r031.jpg
+r032,main-pork,"Quick Pan-fried Pork Chops",r032.jpg
+r033,main-pork,"Igadu",r033.jpg
+r034,main-pork,"Pork Picadillo",r034.jpg
+r035,main-pork,"Crispy Bagnet",r035.jpg
+r036,main-pork,"Paksiw na Baboy",r036.jpg
+r037,main-pork,"Pork Kilawin",r037.jpg
+r038,main-pork,"Pork Hamonado",r038.jpg
+r039,main-pork,"Pork Chop Steak",r039.jpg
+r040,main-pork,"Spare Ribs Hamonado",r040.jpg
+r041,main-pork,"Coke Pork Adobo",r041.jpg
+r042,main-pork,"Pork Tandoori-Style",r042.jpg
+r043,main-pork,"Pork Inasal",r043.jpg
+r044,main-pork,"Crispy Bagbagis (Crispy Pork Intestine)",r044.jpg
+r045,main-pork,"Pork Baby Back Ribs Nilaga",r045.jpg
+r046,main-pork,"Pork Belly in Oyster Sauce with Mushrooms",r046.jpg
+r047,main-pork,"Pork Parmesan",r047.jpg
+r048,main-pork,"Lechon Sisig",r048.jpg
+r049,main-pork,"Adobong Dilaw (Yellow Adobo)",r049.jpg
+r050,main-pork,"Gising-Gising",r050.jpg
+r051,main-beef,"Bistek Tagalog (Filipino Beef Steak)",r051.jpg
+r052,main-beef,"Beef Caldereta (Classic Tagalog Beef Stew)",r052.jpg
+r053,main-beef,"Beef Mechado",r053.jpg
+r054,main-beef,"Beef Nilaga (Boiled Beef Soup Main)",r054.jpg
+r055,main-beef,"Beef Bulalo (Batangas Style Marrow & Shank Stew)",r055.jpg
+r056,main-beef,"Beef Pochero (Filipino Beef Stew with Plantains & Chickpeas)",r056.jpg
+r057,main-beef,"Beef Pares (Braised Beef Stew)",r057.jpg
+r058,main-beef,"Beef Tapa (Homemade Lean Beef Tapa)",r058.jpg
+r059,main-beef,"Beef Kare-Kare (Peanut Stew with Lean Beef & Vegetables)",r059.jpg
+r060,main-beef,"Beef Morcon (Stuffed Beef Roll)",r060.jpg
+r061,main-beef,"Beef Asado (Kapampangan Braised Beef)",r061.jpg
+r062,main-beef,"Beef Menudo",r062.jpg
+r063,main-beef,"Beef Stroganoff Tagalog Style",r063.jpg
+r064,main-beef,"Beef Binallay / Sinantolan with Beef Strips",r064.jpg
+r065,main-beef,"Beef Salpicao",r065.jpg
+r066,main-beef,"Beef Bicol Express",r066.jpg
+r067,main-beef,"Beef Rendang (Mindanao / Maranao Style)",r067.jpg
+r068,main-beef,"Beef Kulma (Tausug Spiced Beef Curry)",r068.jpg
+r069,main-beef,"Beef Pinakbet (Ilocano Style with Beef Strips)",r069.jpg
+r070,main-beef,"Beef Chopsuey Main",r070.jpg
+r071,main-beef,"Beef Estofado",r071.jpg
+r072,main-beef,"Beef Hamonado",r072.jpg
+r073,main-beef,"Beef Halang-Halang (Spicy Visayan Beef Stew)",r073.jpg
+r074,main-beef,"Beef Sinampalukan (Beef in Tamarind Leaves)",r074.jpg
+r075,main-beef,"Beef Pochero Fish-Style (Beef & Saba Stew)",r075.jpg
+r076,main-beef,"Beef Sarciado",r076.jpg
+r077,main-beef,"Beef Tausi (Beef in Salted Black Bean Sauce)",r077.jpg
+r078,main-beef,"Beef Almondegas (Beef Meatballs with Patola & Misua)",r078.jpg
+r079,main-beef,"Beef Tapa Skewers (Grilled Appetizer / Main)",r079.jpg
+r080,main-beef,"Beef Tocino (Homemade Salt-Cured Beef)",r080.jpg
+r081,main-beef,"Beef Salpicao with Mushrooms",r081.jpg
+r082,main-beef,"Beef Chop Suey with Broccoli",r082.jpg
+r083,main-beef,"Beef Patty in Mushroom Gravy",r083.jpg
+r084,main-beef,"Beef Teriyaki Tagalog",r084.jpg
+r085,main-beef,"Beef Meatball Stew with Misua",r085.jpg
+r086,main-beef,"Beef Bicol Express (Mild Coconut Beef)",r086.jpg
+r087,main-beef,"Beef Liver & Steak Sauté (Bistek Atay at Daging)",r087.jpg
+r088,main-beef,"Beef Pastil (Maguindanao Shredded Beef)",r088.jpg
+r089,main-beef,"Beef Adobo sa Patis",r089.jpg
+r090,main-beef,"Beef Adobo sa Puti (White Beef Adobo)",r090.jpg
+r091,main-beef,"Roasted Beef with Local Herbs & Root Vegetables",r091.jpg
+r092,main-beef,"Beef & Broccoli in Oyster Sauce",r092.jpg
+r093,main-beef,"Crispy Baked Beef Cutlets",r093.jpg
+r094,main-beef,"Beef Sinigang sa Mangga (Beef Sour Soup with Green Mango)",r094.jpg
+r095,main-beef,"Beef Sinigang sa Bayabas (Beef in Guava Broth)",r095.jpg
+r096,main-beef,"Beef & Cabbage Stir-Fry Tagalog",r096.jpg
+r097,main-beef,"Sizzling Beef Sisig (Low-Fat Plate)",r097.jpg
+r098,main-beef,"Beef Stew with Kamote & Beans",r098.jpg
+r099,main-beef,"Beef & Mushroom Mechado",r099.jpg
+r100,main-beef,"Broiled Beef Tenderloin with Calamansi Ponzu",r100.jpg
+r101,main-chicken,"Classic Chicken Adobo",r101.jpg
+r102,main-chicken,"Chicken Tinola (Ginger Broth with Papaya)",r102.jpg
+r103,main-chicken,"Chicken Afritada",r103.jpg
+r104,main-chicken,"Chicken Inasal (Bacolod Style Grilled Chicken)",r104.jpg
+r105,main-chicken,"Chicken Pastel (Filipino Chicken Stew)",r105.jpg
+r106,main-chicken,"Chicken Curry (Filipino Coconut Curry)",r106.jpg
+r107,main-chicken,"Pininyahang Manok (Chicken in Pineapple Sauce)",r107.jpg
+r108,main-chicken,"Chicken Binakol (Chicken in Coconut Water Broth)",r108.jpg
+r109,main-chicken,"Chicken Asado (Kapampangan Style)",r109.jpg
+r110,main-chicken,"Chicken Piyanggang (Tausug Black Coconut Chicken)",r110.jpg
+r111,main-chicken,"Chicken Halang-Halang (Spiced Coconut Chicken)",r111.jpg
+r112,main-chicken,"Chicken Pochero",r112.jpg
+r113,main-chicken,"Chicken Mechado",r113.jpg
+r114,main-chicken,"Chicken Guisado with Misua",r114.jpg
+r115,main-chicken,"Chicken BBQ Skewers (Filipino Style)",r115.jpg
+r116,main-chicken,"Chicken Chopsuey",r116.jpg
+r117,main-chicken,"Chicken Menudo",r117.jpg
+r118,main-chicken,"Chicken Kaldereta",r118.jpg
+r119,main-chicken,"Chicken Nilaga",r119.jpg
+r120,main-chicken,"Chicken Lugaw (Filipino Rice Porridge)",r120.jpg
+r121,main-chicken,"Chicken Arroz Caldo",r121.jpg
+r122,main-chicken,"Chicken Sopas (Macaroni Soup)",r122.jpg
+r123,main-chicken,"Chicken Embutido (Steamed Meatloaf)",r123.jpg
+r124,main-chicken,"Chicken Lumpia (Spring Rolls)",r124.jpg
+r125,main-chicken,"Chicken Bola-Bola",r125.jpg
+r126,main-chicken,"Chicken Adobo sa Gata (Adobo in Coconut Cream)",r126.jpg
+r127,main-chicken,"Chicken Skinless Longganisa",r127.jpg
+r128,main-chicken,"Chicken Tapa",r128.jpg
+r129,main-chicken,"Chicken Tocino (Homemade Salt-Cured)",r129.jpg
+r130,main-chicken,"Chicken Sisig (Low-Fat Grilled Chicken)",r130.jpg
+r131,main-chicken,"Chicken Bistek (Filipino Beef Steak Style)",r131.jpg
+r132,main-chicken,"Chicken Stroganoff Tagalog",r132.jpg
+r133,main-chicken,"Chicken Guisado with Sayote",r133.jpg
+r134,main-chicken,"Chicken Sotanghon Soup",r134.jpg
+r135,main-chicken,"Chicken Macaroni Salad (Filipino Style)",r135.jpg
+r136,main-chicken,"Chicken Sinampalukan (In Tamarind Leaves)",r136.jpg
+r137,main-chicken,"Chicken Inihaw na Pecho",r137.jpg
+r138,main-chicken,"Chicken Salpicao",r138.jpg
+r139,main-chicken,"Chicken Adobo sa Patis",r139.jpg
+r140,main-chicken,"Chicken Relleno (Baked Stuffed Chicken)",r140.jpg
+r141,main-chicken,"Chicken Hamonado",r141.jpg
+r142,main-chicken,"Chicken Patty with Gravy",r142.jpg
+r143,main-chicken,"Chicken Stir-Fry with Baguio Beans",r143.jpg
+r144,main-chicken,"Chicken Ginisang Upo",r144.jpg
+r145,main-chicken,"Chicken Tinola sa Gata",r145.jpg
+r146,main-chicken,"Chicken Adobo sa Puti (White Vinegar Adobo)",r146.jpg
+r147,main-chicken,"Chicken Pinakbet",r147.jpg
+r148,main-chicken,"Chicken Laing (Chicken with Taro Leaves)",r148.jpg
+r149,main-chicken,"Chicken Steak with Calamansi & Onions",r149.jpg
+r150,main-chicken,"Chicken Bicol Express",r150.jpg
+r151,main-seafood,"Halabos na Hipon (Garlic Butter Steamed Shrimp)",r151.jpg
+r152,main-seafood,"Adobong Pusit (Filipino Squid Adobo)",r152.jpg
+r153,main-seafood,"Sinanglay na Tilapia/Seafood Wrap",r153.jpg
+r154,main-seafood,"Ginataan na Hipon at Kalabasa (Shrimp & Squash in Coconut Cream)",r154.jpg
+r155,main-seafood,"Gambas Especial (Filipino Spicy Garlic Shrimp)",r155.jpg
+r156,main-seafood,"Tahong sa Luya (Mussels in Ginger Broth Main)",r156.jpg
+r157,main-seafood,"Kilawin na Hipon at Pusit (Seafood Ceviche)",r157.jpg
+r158,main-seafood,"Sizzling Squid Rings (Filipino Style)",r158.jpg
+r159,main-seafood,"Ginisang Tahong at Sitaw (Mussels & String Beans Sauté)",r159.jpg
+r160,main-seafood,"Calamares Tagalog (Air-Fried Squid Rings)",r160.jpg
+r161,main-seafood,"Halabos na Alimango (Steamed Mud Crabs)",r161.jpg
+r162,main-seafood,"Ginatang Alimango at Kalabasa",r162.jpg
+r163,main-seafood,"Crab and Corn Stir-Fry Main",r163.jpg
+r164,main-seafood,"Adobong Hipon (Shrimp Adobo)",r164.jpg
+r165,main-seafood,"Relleno na Pusit (Stuffed Grilled Squid)",r165.jpg
+r166,main-seafood,"Seafood Sinigang sa Sampalok",r166.jpg
+r167,main-seafood,"Seafood Kare-Kare (Shrimp, Squid, Mussels sa Mani)",r167.jpg
+r168,main-seafood,"Seafood Paella Tagalog",r168.jpg
+r169,main-seafood,"Sautéed Clams in Sweet Chili Sauce",r169.jpg
+r170,main-seafood,"Curried Seafood Medley",r170.jpg
+r171,main-seafood,"Seafood Chopsuey Special",r171.jpg
+r172,main-seafood,"Ginatang Pusit (Squid in Coconut Milk)",r172.jpg
+r173,main-seafood,"Inihaw na Pusit (Barbecued Squid)",r173.jpg
+r174,main-seafood,"Baked Tahong with Garlic & Herbs (Low-Fat Cheese)",r174.jpg
+r175,main-seafood,"Seafood Bicol Express",r175.jpg
+r176,main-seafood,"Shrimp and Broccoli Stir-Fry",r176.jpg
+r177,main-seafood,"Seafood Sotanghon Stew",r177.jpg
+r178,main-seafood,"Ginisang Halayhay (Local Clams Sautéed)",r178.jpg
+r179,main-seafood,"Nilasing na Hipon (Air-Fried Drunken Shrimp)",r179.jpg
+r180,main-seafood,"Seafood Marinara Tagalog",r180.jpg
+r181,main-seafood,"Stuffed Crab Shells (Farced Crab / Relleno)",r181.jpg
+r182,main-seafood,"Shrimp Patty with Sweet Chili Glaze",r182.jpg
+r183,main-seafood,"Seafood Pancit Canton Main",r183.jpg
+r184,main-seafood,"Crab in Garlic Butter Sauce",r184.jpg
+r185,main-seafood,"Sizzling Gambas Plate",r185.jpg
+r186,main-seafood,"Sweet & Sour Shrimp",r186.jpg
+r187,main-seafood,"Seafood Lomi Special",r187.jpg
+r188,main-seafood,"Ginatang Hipon sa Kamias",r188.jpg
+r189,main-seafood,"Stir-Fried Calamari with Snow Peas",r189.jpg
+r190,main-seafood,"Seafood Bola-Bola in Tomato Stew",r190.jpg
+r191,main-seafood,"Steamed Scallops in Garlic Soy",r191.jpg
+r192,main-seafood,"Adobong Tahong",r192.jpg
+r193,main-seafood,"Seafood Spicy Coconut Noodle Bowl",r193.jpg
+r194,main-seafood,"Crispy Baby Squid Main Plate",r194.jpg
+r195,main-seafood,"Sautéed Scallops with Asparagus",r195.jpg
+r196,main-seafood,"Seafood Omelet (Tortang Hipon at Pusit)",r196.jpg
+r197,main-seafood,"Grilled Seafood Skewers (Shrimp & Squid)",r197.jpg
+r198,main-seafood,"Seafood Caldereta",r198.jpg
+r199,main-seafood,"Seafood Gata with Malunggay",r199.jpg
+r200,main-seafood,"Steamed Seafood Parcel with Lemongrass",r200.jpg
+r201,main-fish,"Pinaputok na Tilapia (Stuffed & Baked Tilapia)",r201.jpg
+r202,main-fish,"Inun-unan (Visayan Spiced Fish in Vinegar)",r202.jpg
+r203,main-fish,"Escabeche (Filipino Sweet & Sour Fish)",r203.jpg
+r204,main-fish,"Sinigang na Salmon Belly sa Miso",r204.jpg
+r205,main-fish,"Pesa na Dalag / Tilapia (Fish in Ginger Soup Main)",r205.jpg
+r206,main-fish,"Sarciadong Isda (Fish in Tomato Egg Sauce)",r206.jpg
+r207,main-fish,"Inihaw na Bangus (Stuffed Grilled Milkfish)",r207.jpg
+r208,main-fish,"Cardona / Cardiyenteng Isda (Fish Stew with Greens)",r208.jpg
+r209,main-fish,"Ginataang Tulingan (Bullet Tuna in Coconut Milk)",r209.jpg
+r210,main-fish,"Adobong Galunggong (Round Scad Adobo)",r210.jpg
+r211,main-fish,"Paksiw na Bangus (Milkfish in Vinegar Broth)",r211.jpg
+r212,main-fish,"Bakit (Ilocano Grilled Fish Salad)",r212.jpg
+r213,main-fish,"Pinangat na Isda sa Kamias",r213.jpg
+r214,main-fish,"Ginataang Tilapia sa Pechay",r214.jpg
+r215,main-fish,"Kinilaw na Tanigue (Ceviche Main Plate)",r215.jpg
+r216,main-fish,"Inihaw na Blue Marlin Steak",r216.jpg
+r217,main-fish,"Fish Fillet in Sweet Corn Sauce",r217.jpg
+r218,main-fish,"Sinigang na Lapu-Lapu sa Sauteed Miso",r218.jpg
+r219,main-fish,"Pritong Lapu-Lapu with Calamansi Dip",r219.jpg
+r220,main-fish,"Fish Tausi (Fillet in Black Bean Sauce)",r220.jpg
+r221,main-fish,"Steamed Maya-Maya with Soy-Ginger Glaze",r221.jpg
+r222,main-fish,"Fish Bola-Bola sa Sweet & Sour Sauce",r222.jpg
+r223,main-fish,"Ginataang Salmon Belly",r223.jpg
+r224,main-fish,"Adobong Bangus",r224.jpg
+r225,main-fish,"Fish Curry Tagalog Style",r225.jpg
+r226,main-fish,"Pochero Isda (Fish Stew with Saba Plantains)",r226.jpg
+r227,main-fish,"Inihaw na Tilapia with Salsa",r227.jpg
+r228,main-fish,"Steamed Pampano in Sesame Soy",r228.jpg
+r229,main-fish,"Fish Cake Patties Tagalog",r229.jpg
+r230,main-fish,"Sizzling Bangus Sisig (Low-Fat)",r230.jpg
+r231,main-fish,"Sinigang na Bangus sa Bayabas (Guava Fish)",r231.jpg
+r232,main-fish,"Fish Tapa (Marinated Dried/Fresh Fish)",r232.jpg
+r233,main-fish,"Ginisang Tinapa with Tomatoes & Egg",r233.jpg
+r234,main-fish,"Fish Salpicao",r234.jpg
+r235,main-fish,"Pan-Seared Tanigue Steak in Calamansi Butter",r235.jpg
+r236,main-fish,"Fish Menudo",r236.jpg
+r237,main-fish,"Adobong Isda sa Puti (White Fish Adobo)",r237.jpg
+r238,main-fish,"Fish Caldereta",r238.jpg
+r239,main-fish,"Ginataang Fish Fillet with Spinach",r239.jpg
+r240,main-fish,"Crispy Baked Fish Cutlets",r240.jpg
+r241,main-fish,"Fish Afritada",r241.jpg
+r242,main-fish,"Steamed White Fish with Lemongrass",r242.jpg
+r243,main-fish,"Sinigang na Tanigue sa Mangga",r243.jpg
+r244,main-fish,"Fish Almondigas (Fish Balls with Patola)",r244.jpg
+r245,main-fish,"Pan-Seared Sea Bass with Mango Salsa",r245.jpg
+r246,main-fish,"Fish Fillet Chopsuey",r246.jpg
+r247,main-fish,"Ginataang Dalag at Malunggay",r247.jpg
+r248,main-fish,"Baked Tilapia Parmigiana (Light)",r248.jpg
+r249,main-fish,"Fish Mechado",r249.jpg
+r250,main-fish,"Broiled Fish Collar with Calamansi Ponzu",r250.jpg
+r251,side,"Ensaladang Talong (Eggplant Salad)",r251.jpg
+r252,side,"Ginisang Ampalaya (Stir-Fried Bitter Gourd)",r252.jpg
+r253,side,"Achara (Pickled Green Papaya)",r253.jpg
+r254,side,"Ensaladang Mangga at Kamatis (Green Mango & Tomato Salad)",r254.jpg
+r255,side,"Ginisang Munggo (Sautéed Mung Bean Side)",r255.jpg
+r256,side,"Adobong Sitaw (Long Beans Adobo)",r256.jpg
+r257,side,"Kilawin na Puso ng Saging (Banana Blossom in Vinegar)",r257.jpg
+r258,side,"Ensaladang Pako (Fiddlehead Fern Salad)",r258.jpg
+r259,side,"Ginisang Kangkong (Sautéed Water Spinach)",r259.jpg
+r260,side,"Chopsuey (Filipino Stir-Fried Vegetables)",r260.jpg
+r261,side,"Adobong Kangkong with Toasted Garlic",r261.jpg
+r262,side,"Laing (Spiced Taro Leaves in Coconut Milk)",r262.jpg
+r263,side,"Gulay sa Gata (Squash & String Beans in Coconut Cream)",r263.jpg
+r264,side,"Inihaw na Talong with Salted Egg",r264.jpg
+r265,side,"Ensaladang Pipino (Filipino Cucumber Salad)",r265.jpg
+r266,side,"Ginisang Sayote (Sautéed Chayote)",r266.jpg
+r267,side,"Pinakbet Tagalog (Mild Mixed Vegetables)",r267.jpg
+r268,side,"Ginisang Repolyo at Karots (Sautéed Cabbage & Carrots)",r268.jpg
+r269,side,"Ensaladang Okra with Bagoong Dip",r269.jpg
+r270,side,"Adobong Labong (Bamboo Shoots Adobo)",r270.jpg
+r271,side,"Ginisang Pechay with Garlic",r271.jpg
+r272,side,"Ensaladang Kamoteng Kahoy (Sweet Potato Tops Salad)",r272.jpg
+r273,side,"Ginisang Kalabasa at Sitaw",r273.jpg
+r274,side,"Adobong Pusit Side Dish Portion",r274.jpg
+r275,side,"Ensaladang Singkamas at Kamatis (Jicama Salad)",r275.jpg
+r276,side,"Ginisang Togue (Sautéed Mung Bean Sprouts)",r276.jpg
+r277,side,"Tortang Talong (Eggplant Omelet - Side Portion)",r277.jpg
+r278,side,"Atcharang Ampalaya (Pickled Bitter Melon)",r278.jpg
+r279,side,"Ginisang Patola with Misua (Dry Side Variation)",r279.jpg
+r280,side,"Adobong Mushroom (Local Oyster Mushrooms)",r280.jpg
+r281,side,"Ensaladang Labanos (Daikon Radish Salad)",r281.jpg
+r282,side,"Ginisang Broccoli at Cauliflower",r282.jpg
+r283,side,"Ginisang Corn at Spinach",r283.jpg
+r284,side,"Atcharang Labanos (Pickled Radish)",r284.jpg
+r285,side,"Kangkong Chips (Air-Fried Water Spinach)",r285.jpg
+r286,side,"Ginisang Sigarilyas (Winged Beans in Garlic)",r286.jpg
+r287,side,"Kalabasa Patties (Steamed/Pan-Seared Squash Cakes)",r287.jpg
+r288,side,"Ensaladang Lettuce with Calamansi Vinaigrette",r288.jpg
+r289,side,"Ginisang Upo (Sautéed Bottle Gourd)",r289.jpg
+r290,side,"Adobong Puso ng Saging",r290.jpg
+r291,side,"Pritong Santol (Sautéed Cotton Fruit Pulp)",r291.jpg
+r292,side,"Ginisang Baguio Beans (Green Beans)",r292.jpg
+r293,side,"Ensaladang Lato (Sea Grape Salad)",r293.jpg
+r294,side,"Ginisang Sigarilyas sa Gata",r294.jpg
+r295,side,"Atcharang Singkamas (Pickled Jicama)",r295.jpg
+r296,side,"Ginisang Malunggay at Mais",r296.jpg
+r297,side,"Roasted Kamote Wedges with Salt & Chili",r297.jpg
+r298,side,"Adobong Asparagus (Benguet Style)",r298.jpg
+r299,side,"Ensaladang Suha at Pipino (Pomelo Cucumber Salad)",r299.jpg
+r300,side,"Steamed Okra with Calamansi Dip",r300.jpg
+r301,appetizer,"Lumpiang Shanghai (Filipino Pork Spring Rolls)",r301.jpg
+r302,appetizer,"Tokwa't Baboy (Tofu and Pork Bites)",r302.jpg
+r303,appetizer,"Ukoy (Vegetable & Shrimp Fritters)",r303.jpg
+r304,appetizer,"Kinilaw na Tanigue (Filipino Fish Ceviche)",r304.jpg
+r305,appetizer,"Dynamite Lumpia (Stuffed Green Chili Rolls)",r305.jpg
+r306,appetizer,"Crispy Kangkong with Calamansi Mayo Dip",r306.jpg
+r307,appetizer,"Chicharon Bulaklak",r307.jpg
+r308,appetizer,"Calamares",r308.jpg
+r309,appetizer,"Gambas al Ajillo (Filipino-Spanish Garlic Shrimp)",r309.jpg
+r310,appetizer,"Adobong Mani (Garlic Fried Peanuts)",r310.jpg
+r311,appetizer,"Inihaw na Pusit Bites",r311.jpg
+r312,appetizer,"Siomai (Steamed Pork & Shrimp Dim Sum)",r312.jpg
+r313,appetizer,"Chicken Skin Crisp (Baked/Air-Fried)",r313.jpg
+r314,appetizer,"Tortang Dulong (Fish Patties)",r314.jpg
+r315,appetizer,"Stuffed Squid Bites",r315.jpg
+r316,appetizer,"Crispy Tofu Sticks with Spicy Dip",r316.jpg
+r317,appetizer,"Fish Balls with Homemade Sweet & Sour Sauce",r317.jpg
+r318,appetizer,"Kikiam (Filipino Style Veggie/Pork Rolls)",r318.jpg
+r319,appetizer,"Lumpiang Sariwa Skewers (Fresh Spring Roll Bite)",r319.jpg
+r320,appetizer,"Grilled Pork BBQ Skewers (Mini Appetizer Portions)",r320.jpg
+r321,appetizer,"Baked Tahong (Garlic Cheese Mussels)",r321.jpg
+r322,appetizer,"Nilasing na Hipon (Crispy Drunken Shrimp)",r322.jpg
+r323,appetizer,"Inihaw na Liempo Bites",r323.jpg
+r324,appetizer,"Chicken Lollipop Tagalog",r324.jpg
+r325,appetizer,"Bola-Bola (Filipino Meatballs)",r325.jpg
+r326,appetizer,"Croquetas de Jamon y Queso (Filipino Style)",r326.jpg
+r327,appetizer,"Empanaditas (Mini Chicken Meat Pastries)",r327.jpg
+r328,appetizer,"Crispy Kapa-Kapa / Baby Crab",r328.jpg
+r329,appetizer,"Kilawin na Hipon (Shrimp Ceviche)",r329.jpg
+r330,appetizer,"Adobong Chicken Wings",r330.jpg
+r331,appetizer,"Crispy Crickets / Camaro (Pampanga Style)",r331.jpg
+r332,appetizer,"Spiced Chicharon Toast",r332.jpg
+r333,appetizer,"Inihaw na Isaw (Cleaned Chicken Intestine Skewers)",r333.jpg
+r334,appetizer,"Lumpiang Isda (Fish Lumpia)",r334.jpg
+r335,appetizer,"Sizzling Sisig Bites (Lean Pork/Tofu)",r335.jpg
+r336,appetizer,"Crispy Tilapia Strips with Calamansi Tartar",r336.jpg
+r337,appetizer,"Inihaw na Tengga ng Baboy Bites",r337.jpg
+r338,appetizer,"Spiced Corn Chips with Tomato Salsa",r338.jpg
+r339,appetizer,"Kilawin na Pusit",r339.jpg
+r340,appetizer,"Mini Beef Tapa Skewers",r340.jpg
+r341,appetizer,"Pritong Smoked Fish Cakes (Tinapa Cakes)",r341.jpg
+r342,appetizer,"Adobong Chicken Liver Skewers",r342.jpg
+r343,appetizer,"Cheesy Garlic Dumpling Bites",r343.jpg
+r344,appetizer,"Steamed Shrimp Dumplings (Hagao Tagalog)",r344.jpg
+r345,appetizer,"Crispy Baby Squid",r345.jpg
+r346,appetizer,"Inihaw na Hotdog & Marshmallow Skewers",r346.jpg
+r347,appetizer,"Sautéed Mushroom Tapas",r347.jpg
+r348,appetizer,"Salt & Pepper Calamari Bites",r348.jpg
+r349,appetizer,"Crispy Lumpiang Hubad Cups",r349.jpg
+r350,appetizer,"Spiced Garlic Chicharon Tofu",r350.jpg
+r351,soup,"Sinigang na Bangus sa Sampalok (Milkfish Tamarind Soup)",r351.jpg
+r352,soup,"Tinolang Manok (Chicken Ginger Soup)",r352.jpg
+r353,soup,"Bulalo (Beef Shank & Marrow Soup)",r353.jpg
+r354,soup,"Batchoy (Iloilo Style Noodle Soup)",r354.jpg
+r355,soup,"Sopas (Filipino Chicken Macaroni Soup)",r355.jpg
+r356,soup,"Sinigang na Baboy sa Kamias (Pork Tamarind/Kamias Soup)",r356.jpg
+r357,soup,"Suam na Mais (Corn and Spinachy/Malunggay Soup)",r357.jpg
+r358,soup,"Linagpang na Manok (Grilled Chicken Soup)",r358.jpg
+r359,soup,"Sinanglay na Tilapia Soup Portion",r359.jpg
+r360,soup,"Pesang Isda (Fish in Ginger Broth)",r360.jpg
+r361,soup,"Sinigang na Hipon sa Sampalok (Shrimp in Tamarind Broth)",r361.jpg
+r362,soup,"Kansi (Negrense Sour Beef Soup)",r362.jpg
+r363,soup,"Pochero Beef Soup",r363.jpg
+r364,soup,"Balbacua (Davao Style Braised Beef Soup)",r364.jpg
+r365,soup,"Lomi (Batangas Thick Noodle Soup)",r365.jpg
+r366,soup,"Sinigang na Salmon Belly sa Miso",r366.jpg
+r367,soup,"Mami Chicken Soup",r367.jpg
+r368,soup,"Mami Beef Soup",r368.jpg
+r369,soup,"Almondigas (Meatball & Patola Soup)",r369.jpg
+r370,soup,"Lauya (Ilocano Pork/Beef Soup)",r370.jpg
+r371,soup,"Sinampalukang Manok (Chicken in Tamarind Leaves)",r371.jpg
+r372,soup,"Papaitan Baka (Bitter Beef Broth)",r372.jpg
+r373,soup,"Ginisang Monggo Soup with Chicharon topping",r373.jpg
+r374,soup,"Halaan Soup (Clam Ginger Soup)",r374.jpg
+r375,soup,"Tulya Soup (Small Clam Soup)",r375.jpg
+r376,soup,"Sinigang na Baka sa Bayabas (Beef Guava Soup)",r376.jpg
+r377,soup,"Sinigang na Baka sa Mangga",r377.jpg
+r378,soup,"Linat-an (Visayan Pork Soup)",r378.jpg
+r379,soup,"Imbaliktad (Ilocano Seared Beef Broth)",r379.jpg
+r380,soup,"Soto Ayam Tagalog Style",r380.jpg
+r381,soup,"Kimchi Sinigang Fusion Soup",r381.jpg
+r382,soup,"Sinangag at Tapa Soup Combination",r382.jpg
+r383,soup,"Crab Soup with Corn & Egg",r383.jpg
+r384,soup,"Fish Head Soup sa Miso",r384.jpg
+r385,soup,"Sinigang na Pusit Soup",r385.jpg
+r386,soup,"Pochero Fish Soup",r386.jpg
+r387,soup,"Tinolang Tahong (Mussel Ginger Soup)",r387.jpg
+r388,soup,"Kalabasa Soup (Filipino Cream of Squash)",r388.jpg
+r389,soup,"Sweet Potato Leaves Clear Broth",r389.jpg
+r390,soup,"Baguio Vegetable Clear Soup",r390.jpg
+r391,soup,"Suam na Tulya",r391.jpg
+r392,soup,"Tinola sa Gata (Chicken Ginger in Light Coconut Milk)",r392.jpg
+r393,soup,"Sinigang na Upo with Pork Strips",r393.jpg
+r394,soup,"Beef Pares Broth",r394.jpg
+r395,soup,"Ginisang Misua at Patola Soup",r395.jpg
+r396,soup,"Mushroom Clear Broth with Malunggay",r396.jpg
+r397,soup,"Sinigang na Hipon sa Santol",r397.jpg
+r398,soup,"Utan Bisaya (Vegetable Clear Soup)",r398.jpg
+r399,soup,"Dinengdeng (Ilocano Bagoong-based Vegetable Soup)",r399.jpg
+r400,soup,"Kapampangan Asadong Manok Soup Base",r400.jpg
+r401,dessert,"Leche Flan (Reduced-Sugar Filipino Custard)",r401.jpg
+r402,dessert,"Halo-Halo (Classic Filipino Shaved Ice)",r402.jpg
+r403,dessert,"Mango Float (Filipino Icebox Cake)",r403.jpg
+r404,dessert,"Maja Blanca (Coconut Milk Pudding)",r404.jpg
+r405,dessert,"Ube Halaya (Purple Yam Jam)",r405.jpg
+r406,dessert,"Biko (Filipino Sticky Rice Cake)",r406.jpg
+r407,dessert,"Ginataang Bilo-Bilo (Sticky Rice Balls in Coconut Cream)",r407.jpg
+r408,dessert,"Turon (Fried Banana Lumpia with Jackfruit)",r408.jpg
+r409,dessert,"Minatamis na Saba (Sweetened Plantain)",r409.jpg
+r410,dessert,"Puto Bumbong (Purple Rice Cake)",r410.jpg
+r411,dessert,"Kutsinta (Steamed Rice Cakes with Grated Coconut)",r411.jpg
+r412,dessert,"Puto Leche Flan (Hybrid Steamed Cake)",r412.jpg
+r413,dessert,"Suman sa Lihiya with Latik Sauce",r413.jpg
+r414,dessert,"Sapin-Sapin (Layered Rice Cake)",r414.jpg
+r415,dessert,"Cassava Cake (Baked Tapioca Root Cake)",r415.jpg
+r416,dessert,"Calamay (Sticky Coconut Jam Treat)",r416.jpg
+r417,dessert,"Espasol (Toasted Rice Flour Cylinders)",r417.jpg
+r418,dessert,"Pastillas de Leche (Milk Candy)",r418.jpg
+r419,dessert,"Polvoron (Toasted Flour Shortbread)",r419.jpg
+r420,dessert,"Silvanas (Filipino Meringue Cookie Sandwiches)",r420.jpg
+r421,dessert,"Sans Rival (Cashew Meringue Layer Cake)",r421.jpg
+r422,dessert,"Buko Pandan Dessert Salad",r422.jpg
+r423,dessert,"Fruit Salad Tagalog Style",r423.jpg
+r424,dessert,"Cathedral Window Jelly Dessert",r424.jpg
+r425,dessert,"Ginataang Corn at Sticky Rice (Champorado White)",r425.jpg
+r426,dessert,"Champorado (Chocolate Rice Porridge)",r426.jpg
+r427,dessert,"Tsokolate Ah Soufflé Pudding",r427.jpg
+r428,dessert,"Banana Cue (Skewered Caramelized Saba)",r428.jpg
+r429,dessert,"Kamote Cue (Caramelized Sweet Potato)",r429.jpg
+r430,dessert,"Carioca (Glutinous Rice Ball Skewers)",r430.jpg
+r431,dessert,"Maruya (Banana Fritters)",r431.jpg
+r432,dessert,"Inutak (Layered Baked Rice Cream)",r432.jpg
+r433,dessert,"Tibok-Tibok (Kapampangan Milk Pudding)",r433.jpg
+r434,dessert,"Bayabay / Native Rice Truffles",r434.jpg
+r435,dessert,"Suman Malagkit with Fresh Mangoes",r435.jpg
+r436,dessert,"Puto Seco (Dry Coconut Cookies)",r436.jpg
+r437,dessert,"Lengua de Gato (Filipino Butter Cookies)",r437.jpg
+r438,dessert,"Ube Macapuno Cake Portion",r438.jpg
+r439,dessert,"Leche Flan Jelly Cups",r439.jpg
+r440,dessert,"Avocado with Condensed Milk & Ice",r440.jpg
+r441,dessert,"Melon Shreds with Coconut Cream Dessert",r441.jpg
+r442,dessert,"Ginataang Kamoteng Kahoy",r442.jpg
+r443,dessert,"Binignit (Visayan Sweet Stew)",r443.jpg
+r444,dessert,"Landang (Sago Native Stew)",r444.jpg
+r445,dessert,"Latik Coconut Caramel Fondue with Fruits",r445.jpg
+r446,dessert,"Sweet Potato Donuts Tagalog",r446.jpg
+r447,dessert,"Ube Crinkles",r447.jpg
+r448,dessert,"Kalamay Hati",r448.jpg
+r449,dessert,"Piyaya (Flatbread with Muscovado Filling)",r449.jpg
+r450,dessert,"Napoleones (Bacolod Pastry Slice)",r450.jpg
+r451,beverage,"Fresh Calamansi Juice with Honey",r451.jpg
+r452,beverage,"Sago't Gulaman (Filipino Pearl and Jelly Drink)",r452.jpg
+r453,beverage,"Fresh Buko Water (Young Coconut Refreshment)",r453.jpg
+r454,beverage,"Samalamig na Melon (Filipino Shredded Melon Drink)",r454.jpg
+r455,beverage,"Tsokolate Ah (Traditional Filipino Hot Chocolate)",r455.jpg
+r456,beverage,"Kapeng Barako (Batangas Liberica Coffee)",r456.jpg
+r457,beverage,"Salabat (Traditional Ginger Tea)",r457.jpg
+r458,beverage,"Guyabano (Soursop) Nectar Drink",r458.jpg
+r459,beverage,"Dalandan Juice Refreshment",r459.jpg
+r460,beverage,"Pineapple Buko Cooler",r460.jpg
+r461,beverage,"Kamias Infused Iced Tea",r461.jpg
+r462,beverage,"Tanglad (Lemongrass) Tea",r462.jpg
+r463,beverage,"Pandan Infused Cold Brew",r463.jpg
+r464,beverage,"Buko Pandan Drink",r464.jpg
+r465,beverage,"Ube Milk Shake (Low-Fat)",r465.jpg
+r466,beverage,"Mango Milkshake (Carabao Mango)",r466.jpg
+r467,beverage,"Calamansi Iced Tea",r467.jpg
+r468,beverage,"Guyabano Mint Tea",r468.jpg
+r469,beverage,"Buko Juice with Lychee",r469.jpg
+r470,beverage,"Tsokolate Eh (Concentrated Dark Cacao Shot)",r470.jpg
+r471,beverage,"Kape at Tsokolate (Filipino Mocha)",r471.jpg
+r472,beverage,"Salabat with Turmeric (Luyang Dilaw)",r472.jpg
+r473,beverage,"Sampalok (Tamarind) Juice",r473.jpg
+r474,beverage,"Suha (Pomelo) Pink Juice",r474.jpg
+r475,beverage,"Duhat (Java Plum) Fruit Drink",r475.jpg
+r476,beverage,"Santol Cold Infusion",r476.jpg
+r477,beverage,"Tuba (Fresh Coconut Nectar - Non-alcoholic)",r477.jpg
+r478,beverage,"Lambanog Citrus Mocktail Base",r478.jpg
+r479,beverage,"Pineapple Mint Cooler",r479.jpg
+r480,beverage,"Watermelon Shake Tagalog",r480.jpg
+r481,beverage,"Avocado Smoothie with Condensed Milk Substitute",r481.jpg
+r482,beverage,"Guyabano Green Tea",r482.jpg
+r483,beverage,"Calamansi Ginger Detox Brew",r483.jpg
+r484,beverage,"Mango-Banana Smoothie",r484.jpg
+r485,beverage,"Buko-Carrot Hydration Juice",r485.jpg
+r486,beverage,"Hibiscus (Gumamela) Herbal Infusion",r486.jpg
+r487,beverage,"Banaba Leaf Herbal Tea",r487.jpg
+r488,beverage,"Sambong Herbal Tea",r488.jpg
+r489,beverage,"Kapa-Kapa Berry Iced Tea",r489.jpg
+r490,beverage,"Benguet Coffee French Press Brew",r490.jpg
+r491,beverage,"Sagada Arabica Pour-Over Coffee",r491.jpg
+r492,beverage,"Kalinga Dark Roast Cold Brew",r492.jpg
+r493,beverage,"Tsokolate Granita",r493.jpg
+r494,beverage,"Mais con Yelo Drinkable Cup",r494.jpg
+r495,beverage,"Saba Banana Shake",r495.jpg
+r496,beverage,"Ripe Papaya Calamansi Smoothie",r496.jpg
+r497,beverage,"Dalanghita Limeade",r497.jpg
+r498,beverage,"Calamansi Cucumber Mint Cooler",r498.jpg
+r499,beverage,"Buko-Lychee Sparkler",r499.jpg
+r500,beverage,"Spiced Cold Salabat with Honey",r500.jpg

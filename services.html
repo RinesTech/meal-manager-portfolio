@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Menu Planning Services — Kusina Consult</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-bar">
+    <span class="brand"><span class="mark">🍲</span> Kusina Consult</span>
+    <button class="sidebarOpen">☰</button>
+    <ul class="nav-links">
+      <button class="sidebarClose">✕</button>
+      <li><a href="index.html">About</a></li>
+      <li><a href="recipes.html">Recipes</a></li>
+      <li><a href="tips.html">Tips & Nutrition</a></li>
+      <li><a href="services.html" class="active cta">Menu Planning</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="page-header wrap">
+  <span class="eyebrow">Professional Menu Planning & Meal Management Services</span>
+  <h2>Balanced, budget-friendly, and personalized meal solutions for every lifestyle</h2>
+  <p>Welcome to our Menu Planning hub! As certified Meal Managers, we bridge the gap between nutritional science, financial practicality, and culinary enjoyment. Whether you are managing family meals on a strict budget, striving for specific dietary targets, or balancing a busy schedule, we design structured menu plans tailored specifically to your lifestyle and nutritional needs.</p>
+</div>
+
+<section style="padding-top:0;">
+  <div class="wrap services-grid">
+    <div>
+      <h3>Core Service Offerings</h3>
+      <div class="service-feature">
+        <h3>Service 1: Custom Family & Lifestyle Menu Plans</h3>
+        <div class="best-for">Best for: busy professionals, growing families, and individuals seeking structured eating habits.</div>
+        <h4>What's included</h4>
+        <ul>
+          <li>Weekly or monthly menu calendars customized to your family's preferences and daily routine.</li>
+          <li>Variety-balanced meal sequencing (alternating dry and saucy dishes, preventing repetitive main protein days).</li>
+        </ul>
+      </div>
+    </div>
+
+    <div>
+      <form class="intake-form" onsubmit="return false;">
+        <h3>Request a menu plan</h3>
+        <p style="font-size:14px; margin-top:6px;">This is a portfolio demo form — no data is submitted anywhere.</p>
+
+        <label for="name">Full name</label>
+        <input type="text" id="name" placeholder="Juan Dela Cruz">
+
+        <div class="row2">
+          <div>
+            <label for="household">Household size</label>
+            <input type="number" id="household" placeholder="4" min="1">
+          </div>
+          <div>
+            <label for="budget">Weekly food budget (₱)</label>
+            <input type="number" id="budget" placeholder="2000" min="0">
+          </div>
+        </div>
+
+        <label for="plan">Service</label>
+        <select id="plan">
+          <option>Custom Family & Lifestyle Menu Plan — weekly</option>
+          <option>Custom Family & Lifestyle Menu Plan — monthly</option>
+        </select>
+
+        <label for="diet">Dietary needs or restrictions</label>
+        <input type="text" id="diet" placeholder="e.g. low sodium, no seafood, diabetic-friendly">
+
+        <label for="notes">Anything else we should know?</label>
+        <textarea id="notes" placeholder="Cooking time available, kitchen equipment, favorite dishes, etc."></textarea>
+
+        <button type="submit" class="btn btn-primary" style="margin-top:20px; width:100%; justify-content:center;">Request this plan</button>
+        <p class="form-note">We'll follow up with a draft menu and grocery list within a few days of your request.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-inner">
+    <span class="brand"><span class="mark">🍲</span> Kusina Consult</span>
+    <p>A student meal management portfolio — Filipino recipes, practical food guidance, and menu planning services.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
