@@ -1276,7 +1276,7 @@ const RECIPES = [
       "Pour coconut milk: Pour in the coconut milk. Bring to a gentle boil, then lower the heat. Simmer uncovered for about 8–10 minutes to let the flavors blend and the sauce thickens slightly. Stir occasionally.",
       "Add the beans: Add your chopped sigarilyas or Baguio beans. Simmer for 5–7 minutes only, don't overcook! The beans should remain tender-crisp with a nice crunch, not mushy.",
       "Finish & serve: Taste and adjust seasoning add more bagoong for saltiness or chilies for heat. Serve hot with plenty of steamed rice!",
-      "BEEF:",
+      "",
     ],
     id: "r050",
   },
