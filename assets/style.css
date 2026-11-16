@@ -8,10 +8,10 @@
   --panel:#fbd0df;         /* key pink */
   --panel-alt:#f3a8c3;     /* deeper pink for alternate sections */
   --input-bg:#fff3f8;
-  --accent:#0f4f2e;        /* deep leaf green, for text and links */
-  --accent-fill:#1f6b43;   /* leaf green, for buttons */
-  --accent-fill-hover:#17573a;
-  --accent-soft:#6cc99a;   /* fresh light green, decorative */
+  --accent:#8a1b50;        /* dark pink, for text and links */
+  --accent-fill:#c8366f;   /* dark pink, for buttons */
+  --accent-fill-hover:#a82a5c;
+  --accent-soft:#f8b0cb;   /* light rose, decorative */
   --accent-warm:#8f1d55;   /* deep raspberry */
   --pink-soft:#f49ebb;     /* decorative pink */
   --on-accent:#ffffff;
